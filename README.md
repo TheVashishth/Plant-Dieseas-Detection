@@ -45,20 +45,27 @@ https://github.com/TheVashishth/Plant-Dieseas-Detection.git
 2. Open the plant-disease-detection.py
 3. Upload the image for testing.
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/newfeature )
+3. Commit your Changes (git commit -m 'Add some feature/newfeature ')
+4. Push to the Branch (git push origin feature/newfeature)
+5. Open a Pull Request
+
+
+## Result 
+Here are Some snapshots of the project
+
+![chen](https://user-images.githubusercontent.com/33517963/129998371-69c13680-4106-4097-91e4-9e01819c548d.JPG)
+- This is the diffrent channals of the image
+
+![fimg](https://user-images.githubusercontent.com/33517963/129998523-ec570f7d-3003-4bc2-9088-56a80916f03a.JPG)
+- Final disease detection meter to view percentage of the image 
+
+## Contact
+
+Vashishtha Upadhyay - thevashishth95@gmail.com
+
+
